@@ -38,6 +38,8 @@ A modular, 3D-printable power bank designed for 18650 Li-ion cells. Scale it to 
 | M3 nuts | 4 | Press-fit into printed holes |
 | M3 screws | 4 | For lid fastening |
 | 3D printed parts | — | See print files |
+### Control Board sample pictire
+![pcb](/images/PCB.jpg)
 
 ---
 
