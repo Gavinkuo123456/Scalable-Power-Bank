@@ -55,9 +55,8 @@ A modular, 3D-printable power bank designed for 18650 Li-ion cells. Scale it to 
 ## 🖨️ Printing Guidelines
 
 - **Material:** PLA or PETG recommended
-- **Infill:** 20–30%
-- **Supports:** Required for nut pockets and button hole
-- **Layer height:** 0.2mm
+- **Infill:** 15%
+- **Layer height:** 0.3mm
 
 ---
 
